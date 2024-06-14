@@ -1,2 +1,2 @@
-# web-vulnerable-codes
+# vulnerable codes for web security
 Codes for the most common using web vulnerabilites...
